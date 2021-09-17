@@ -67,6 +67,6 @@ avec les configurations appropriées, mais sans avoir à déployer l'application
 
 ### Installation
 ---
-`$ git clone https://github.com/mkyong/spring-boot.git` <br/>
-`$ cd spring-rest-hello-world` <br/>
+`$ git clone https://github.com/darvin-rakotomalala/spring-boot-rest-api-unitTesting.git` <br/>
+`$ cd spring-boot-rest-api-unitTesting.git` <br/>
 `$ mvn clean test`
