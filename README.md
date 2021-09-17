@@ -26,9 +26,9 @@ les services du serveur.
 Pour ce projet, vous auriez besoin des spécifications suivantes :<br/>
 - Spring Boot v2.0+
 - JDK v1.8+
-- JUnit 5 - Le framework de test le plus populaire et le plus utilisé pour Java.
-- Mockito - Cadre à usage général pour les services et objets de moquerie et de stub.
-- MockMVC - Module de Spring pour effectuer des tests d'intégration lors des tests unitaires.
+- **JUnit 5** - Le framework de test le plus populaire et le plus utilisé pour Java.
+- **Mockito** - Cadre à usage général pour les services et objets de moquerie et de stub.
+- **MockMVC** - Module de Spring pour effectuer des tests d'intégration lors des tests unitaires.
 - Maven 3+ ou Gradle 4+ - outil de construction
 - Tout IDE prenant en charge Java et Spring Boot (Spring Tool Suite (STS), IntelliJ, VSC, NetBeans, etc.)
 - SGBD PostgreSQL
@@ -67,6 +67,6 @@ avec les configurations appropriées, mais sans avoir à déployer l'application
 
 ### Installation
 ---
-`$ git clone https://github.com/mkyong/spring-boot.git`
-`$ cd spring-rest-hello-world`
+`$ git clone https://github.com/mkyong/spring-boot.git` <br/>
+`$ cd spring-rest-hello-world` <br/>
 `$ mvn clean test`
